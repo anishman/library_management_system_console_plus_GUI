@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/** The class of Book
+*/
 public class Book {
 
 	static int PresentIndex = 1; //counter for the total of books created until now
